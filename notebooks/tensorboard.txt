@@ -1,0 +1,2 @@
+/bin/bash: lt: 未找到命令
+/bin/bash: lt: 未找到命令
